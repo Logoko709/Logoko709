@@ -1,48 +1,36 @@
-# 👋 Hello, World! I'm [Your Name]
+# Hey there! 👋
 
-## 🚀 About Me
+I am Logoko709 from Switzerland and i am just doing some applications....
 
-- 👨‍💻 Full-stack Developer | Open Source Contributor
-- 🎓 Computer Science Enthusiast
-- 🌐 Exploring the endless possibilities of the tech universe
+## About Me
 
-## 🔧 Technologies & Tools
+- 🌐 **Location:** Switzerland
+- 💻 **Occupation:** Learning Software Developer
+- 🎓 **Age:** 15
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+## My Skills
+![HTML](https://img.shields.io/badge/HTML-30%25-blue)
+![Lua](https://img.shields.io/badge/Lua-20%25-blue)
+![Java](https://img.shields.io/badge/Java-50%25-orange)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-50%25-green)
+![Python](https://img.shields.io/badge/Python-85%25-yellow)
+![MySQL](https://img.shields.io/badge/MySQL-70%25-lightblue)
 
-## 🌱 What I'm Currently Learning
 
-- Docker 🐳
-- Machine Learning 🤖
-- [Your current learning goals]
+## Current Projects
 
-## 📈 GitHub Stats
+- Currently working learning Java
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)](https://github.com/your-username)
+## Connect with Me
 
-## 🚧 Projects
+[![Discord](https://img.shields.io/badge/Discord-suckysucky%239876-orange)](https://discord.gg/suckysucky)
 
-- [Project 1](link-to-project1) - Short project description
-- [Project 2](link-to-project2) - Short project description
-- [Project 3](link-to-project3) - Short project description
+## Stats
 
-## 📫 Let's Connect
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=logoko709&show_icons=true&hide=contribs,prs&theme=radical)
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- Twitter: [Your Twitter Profile](https://twitter.com/your-twitter-handle)
-- Portfolio: [Your Portfolio Website](https://www.your-portfolio.com)
-
-## ❤️ Support My Work
-
-If you find my projects and contributions helpful, consider buying me a coffee! ☕️
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-blue)](link-to-coffee-donation)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=logoko709&layout=compact&theme=radical)
 
 ---
 
-Feel free to reach out and connect! Let's build something amazing together. 😊
+Feel free to explore my repositories! 🚀
